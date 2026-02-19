@@ -23,7 +23,7 @@ from google.genai import types
 
 def generate():
     client = genai.Client(
-        api_key="AIzaSyB8Bax2L5pZH3xOCOIdlw9lkoWkR1h1ZQc"
+        api_key="AIzaSyBt7-NVzRGJpV9tR4rA7IePANwhTFRndYk"
     )
 
     model = "gemini-3-flash-preview"
